@@ -1,0 +1,3 @@
+Note:
+  You need an empty file to place the names of to-do pages, that's why i added "to-do pages name"
+  Keep this file empty at first and DELETE all of this text
